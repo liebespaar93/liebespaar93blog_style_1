@@ -1,4 +1,28 @@
+@font-face {
+  font-family: Sacramento;
+  src: url("/font/Sacramento/Sacramento-Regular.ttf");
+}
+
+@font-face {
+  font-family: Nickainley;
+  src: url("/font/Nickainley/Nickainley-Normal.otf");
+}
+
 :root {
+  /* title */
+  --title-height: 64px;
+  --title-backgroud-color: transparent;
+  --title-color: rgb(15, 15, 241);
+  --title-color-light: hsl(208, 69%, 61%);
+  --title-font-size: 32px;
+  --title-font-family-logo: 'Sacramento', cursive;
+  --title-font-family-nav: 'Sacramento', cursive;
+
+
+
+
+
+
   --max-width: 1100px;
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
