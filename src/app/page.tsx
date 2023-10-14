@@ -1,7 +1,6 @@
 import { GithubFaceLine } from '@/components/assests/Github'
 import styles from './page.module.css'
 import parallax from '@/styles/parallax.module.css'
-
 export default function Home() {
 
   return (
