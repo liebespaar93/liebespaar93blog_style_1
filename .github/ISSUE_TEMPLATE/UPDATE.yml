@@ -1,6 +1,6 @@
 name: "📤 업데이트"
 description: "업데이트 과정에 대한 보고서입니다"
-title: "📤 "
+title: "📤 Update: "
 labels: ["📤 업데이트"]
 projects: ["kyoulee/1"]
 assignees:

@@ -1,6 +1,6 @@
 name: "📝 문서 보고서"
 description: "문서에 설정에 대한 보고서입니다"
-title: "📝 "
+title: "📝 Docs: "
 labels: ["📝 문서"]
 projects: ["kyoulee/1"]
 assignees:

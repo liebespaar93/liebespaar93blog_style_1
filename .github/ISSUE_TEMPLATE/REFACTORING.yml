@@ -1,6 +1,6 @@
 name: "♻️ 리펙토링"
 description: "리펙토링 과정에 대한 보고서입니다"
-title: "♻️ "
+title: "♻️ Refactoring: "
 labels: ["♻️ 리펙토링"]
 projects: ["kyoulee/1"]
 assignees:
