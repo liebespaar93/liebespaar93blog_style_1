@@ -9,7 +9,6 @@
 }
 
 :root {
-
   --base-color: rgb(15, 15, 241);
   --base-color-light: hsl(208, 69%, 61%);
 
@@ -26,11 +25,6 @@
   --title-font-family-nav: 'Sacramento', cursive;
 
   --max-width: 1920px;
-
-
-
-
-
 
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',

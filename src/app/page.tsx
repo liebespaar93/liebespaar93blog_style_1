@@ -1,4 +1,6 @@
 import styles from './page.module.css'
+import Other from './other/page'
+import Nav from './components/Nav'
 
 export default function Home() {
   return (
