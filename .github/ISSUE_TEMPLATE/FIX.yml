@@ -1,6 +1,6 @@
 name: "🛠️ 수정 보고서"
 description: "수정에 설정에 대한 보고서입니다"
-title: "🛠️ Fix: "
+title: "🛠️ "
 labels: ["🛠️ 수정"]
 projects: ["kyoulee/1"]
 assignees:
