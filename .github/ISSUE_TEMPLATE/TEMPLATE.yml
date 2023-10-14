@@ -1,6 +1,6 @@
 name: "🗃️ 템플릿 보고서"
 description: "템플릿에 설정에 대한 보고서입니다"
-title: "🗃️ Template: "
+title: "🗃️ "
 labels: ["📝 문서", "🗃️ 템플릿"]
 projects: ["kyoulee/1"]
 assignees:
